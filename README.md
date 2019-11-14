@@ -1,0 +1,1 @@
+This is a booklist app using Object Oriented JavaScript classes. The UI is built with BootSwatch Yeti along with some nifty icons from font awesome.
