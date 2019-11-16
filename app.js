@@ -27,7 +27,6 @@ UI.prototype.clearFileds = function(){
   document.getElementById('title').value = ''
   document.getElementById('author').value = ''
   document.getElementById('isbn').value = ''
-
 }
 
 
